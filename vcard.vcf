@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Олег;Вейтцель;Олегович;;
+FN;CHARSET=UTF-8:Вейтцель Олег
+NICKNAME;CHARSET=UTF-8:
+ORG;CHARSET=UTF-8:АО "Трест СЗМА"  к.т.н.
+EMAIL;type=INTERNET;type=HOME;type=pref:voo@szma.org
+TEL;type=CELL;type=VOICE;type=pref:+7 (812) 313 79 19 (доб. 4110)
+URL;type=pref:https://szmavo.github.io/
+BDAY:
+NOTE;CHARSET=UTF-8:Вейтцель Олег\nглавный специалист\nпроектно-инжинирингового управления\nАО "Трест СЗМА"\n\nГИП (НРС НОПРИЗ)\nСМК (ISO 9001, INTI S.QS.1-2020)\nНормоконтроль
+END:VCARD
